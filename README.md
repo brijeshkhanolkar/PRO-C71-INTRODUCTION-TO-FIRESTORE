@@ -1,1 +1,2 @@
-# PRO-C71-INTRODUCTION-TO-FIRESTORE
+# PRO-C71-Template
+Project Template Code
